@@ -1,4 +1,4 @@
-# Assignment-2
+# Assignment-2 Control Structures in Python
 ## Task 1: Check if a Number is Even or Odd
   - For this assignment I have used modulus operator
 ## Task 2: Sum of Integers from 1 to 50 Using a Loop
